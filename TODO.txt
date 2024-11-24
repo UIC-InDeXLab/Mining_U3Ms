@@ -1,3 +1,0 @@
-[DONE] Add exaplanation for 'Compare with clustering baselines'
-[] Add time complexity analysis with baseline
-[] Add visualization for algorithms
