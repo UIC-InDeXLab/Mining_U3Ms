@@ -1,2 +1,13 @@
 # Mining the Minoria: Unknown, Under-represented, and Under-performing Minority Groups
-The 2D and Multi-dimensional space experiments are available in `2D` and `MD` directories respectively. There are different notebooks for different datasets.
+
+## Ray-sweeping Algorithm
+The notebooks for running the Ray-sweeping algorithm are in `2D` directory. There are different notebooks for different datasets used.
+
+## Focused Exploration
+The implementation of Focused Exploration algorithm is inside `MD` directory.
+
+## Baselines
+The baseline clustering methods are applied in the notebooks inside `clustering` algorithm.
+
+## Other directories
+The preprocessed datasets and trained models are in `datasets` and `models` directory.
